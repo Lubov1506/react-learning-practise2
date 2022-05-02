@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John",
+            "imageSrc": "http//"
+        }  ,
+        {
+            "id": 2,
+            "name": "Helen",
+            "imageSrc": "http//"
+        }  ,
+        {
+            "id": 3,
+            "name": "Mike",
+            "imageSrc": "http//"
+        }  
+    ],
+        "message": [
+        {
+            "id": 1,
+            "text": "Hello",
+            "authoID": 2
+        },
+        {
+            "id": 2,
+            "text": "Hello to you",
+            "authoID": 3
+        },
+        {
+            "id": 3,
+            "text": "Hi!",
+            "authoID": 2
+        },
+        {
+            "id": 4,
+            "text": "Hello",
+            "authoID": 1
+        }
+    ]
+}
